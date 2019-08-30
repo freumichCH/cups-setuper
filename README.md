@@ -1,5 +1,5 @@
-# cups-setuper
-Cups-Setuper is a simple Shell Script for Seting up a CUPS-Server on a Linux System. 
+# cups-installer
+Cups-installer is a simple Shell Script for setting up a CUPS-Server on a Linux System. 
 
 It updates, upgrades and Installs all dependencies.
 
